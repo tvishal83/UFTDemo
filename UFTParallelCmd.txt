@@ -1,0 +1,4 @@
+ParallelRunner path:
+c:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin>
+Cmd:
+ParallelRunner -t "C:\Users\demo\Documents\Unified Functional Testing\MyScriptsSolution\WebParallelTest" -b "IE;Chrome;Firefox64;ChromiumEdge" -r "C:\Users\demo\Documents\Unified Functional Testing\MyScriptsSolution\WebParallelTest"
